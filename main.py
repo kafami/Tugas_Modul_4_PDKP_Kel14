@@ -1,3 +1,4 @@
+#mengimport class dari file method
 from method import Toko
 
 # Membuat objek dari class Toko
